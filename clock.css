@@ -1,0 +1,21 @@
+body {
+    background-image: url(./hanok.jpg);
+    background-size: cover; 
+    
+}
+.main {
+    margin-top: 4rem;
+}
+.clock {
+    text-align: center; /*시계 가운데 정렬 */
+    color:white;
+    font-size: 6rem;
+    background-color: black;
+    width:fit-content;
+    margin:auto;
+    padding: 0 1rem;
+}
+.animal {
+    text-align: center; /*동물 시계 가운데 정렬 */
+    font-size: 8rem; /* 동물 시계 폰트 크기 키우기 */
+}
